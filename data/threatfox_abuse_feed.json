@@ -1,3 +1,6 @@
+"2026-04-01 23:08:28","1780256","109.241.233.244","ip:port","botnet_cc","win.quasar_rat","CinaRAT","QuasarRAT","Yggdrasil","Quasar RAT","","100,False,https://tria.ge/260401-21a32scw2s,quasar,0","dyingbreeds_"
+"2026-04-01 22:00:05","1780250","e70839572.duckdns.org","domain","botnet_cc","win.remcos","RemcosRAT","Remvio","Socmer","Remcos","","100,False,https://tria.ge/260401-zse1xsbx6z,Remcos,0","dyingbreeds_"
+"2026-04-01 22:00:05","1780251","e70839572bk.duckdns.org","domain","botnet_cc","win.remcos","RemcosRAT","Remvio","Socmer","Remcos","","100,False,https://tria.ge/260401-zse1xsbx6z,Remcos,0","dyingbreeds_"
 "2026-04-01 18:04:33","1780194","pbucz.sa.com","domain","botnet_cc","win.quasar_rat","CinaRAT","QuasarRAT","Yggdrasil","Quasar RAT","","100,False,https://tria.ge/260401-wmax8sey5l,quasar,0","dyingbreeds_"
 "2026-04-01 18:04:33","1780195","powercare.in.net","domain","botnet_cc","win.quasar_rat","CinaRAT","QuasarRAT","Yggdrasil","Quasar RAT","2026-04-01 18:04:33","100,False,https://tria.ge/260401-wmax8sey5l,quasar,0","dyingbreeds_"
 "2026-04-01 18:03:27","1780193","154.36.188.162","ip:port","botnet_cc","win.valley_rat","Winos","ValleyRAT","","100","False","https://tria.ge/260401-q4qr5acz9p,AS979,C2,rat,triage","valleyrat","0","DonPasci"
@@ -239,6 +242,3 @@
 "2026-03-31 05:15:43","1779189","gatewayraven.skyl1tfern.in.net","domain","payload_delivery","js.clearfake","None","ClearFake","2026-03-30 18:48:41","100","False","None,30March2026,ClearFake,Commandline,Windows","0","Gi7w0rm"
 "2026-03-31 02:00:22","1779342","45.88.186.163","ip:port","botnet_cc","win.quasar_rat","CinaRAT","QuasarRAT","Yggdrasil","Quasar RAT","","100,False,https://tria.ge/260331-b49snsfs5x,quasar,0","dyingbreeds_"
 "2026-03-31 02:00:06","1779341","thacoseafoods.com","domain","botnet_cc","win.remcos","RemcosRAT","Remvio","Socmer","Remcos","","100,False,https://tria.ge/260330-3g9myaes8z,Remcos,0","dyingbreeds_"
-"2026-03-30 22:00:23","1779260","OmniSec-33243.portmap.host","domain","botnet_cc","win.quasar_rat","CinaRAT","QuasarRAT","Yggdrasil","Quasar RAT","","100,False,https://tria.ge/260330-zvjf5abx5s,quasar,0","dyingbreeds_"
-"2026-03-30 22:00:09","1779259","servemail.exprotedsteel.pro","domain","botnet_cc","win.remcos","RemcosRAT","Remvio","Socmer","Remcos","","100,False,https://tria.ge/260330-whe2dsbz3j,Remcos,0","dyingbreeds_"
-"2026-03-30 20:55:23","1779225","frk9qw3pqt0dx.cfc-execute.bj.baidubce.com","domain","botnet_cc","win.cobalt_strike","Agentemis","BEACON","CobaltStrike","cobeacon","Cobalt Strike","2026-04-01 18:43:54,75,False,None,CobaltStrike","drb-ra","0","abuse_ch"
