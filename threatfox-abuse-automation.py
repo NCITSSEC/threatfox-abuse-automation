@@ -11,7 +11,7 @@ excluded_ip_ranges = [
     "173.245.48.0/20", "188.114.96.0/20", "190.93.240.0/20", "197.234.240.0/22", "198.41.128.0/17"
 ]
 excluded_networks = [ipaddress.ip_network(net) for net in excluded_ip_ranges]
-excluded_ips = {"127.0.0.1", "204.79.197.203"}
+excluded_ips = {"127.0.0.1", "204.79.197.203","9b1fbf0c11c520ae714af8aa9af12cfd48503eedecd7398d8992ee94d1b4dc37"}
 valid_ioc_types = {"domain", "sha256_hash", "md5_hash", "ip:port"}
 seen_iocs = set()
 filtered_data = []
